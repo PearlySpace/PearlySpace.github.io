@@ -5,35 +5,35 @@ https://keybase.io/taylorzane
 I hereby claim:
 
   * I am an admin of https://pearly.space
-    * I am taylorzane (https://keybase.io/taylorzane) on keybase.
-      * I have a public key with fingerprint C61E F594 7552 42D6 F3F9  FD07 2047 A21E FA98 F8FB
+  * I am taylorzane (https://keybase.io/taylorzane) on keybase.
+  * I have a public key with fingerprint C61E F594 7552 42D6 F3F9  FD07 2047 A21E FA98 F8FB
 
 To do so, I am signing this object:
 
 {
     "body": {
-            "key": {
-                        "eldest_kid": "0101fe94cee1e8feee95f7e7173d96686d934c9006965fdbd7da4c7f122ef06765fc0a",
-                                    "fingerprint": "c61ef594755242d6f3f9fd072047a21efa98f8fb",
-                                                "host": "keybase.io",
-                                                            "key_id": "2047a21efa98f8fb",
-                                                                        "kid": "0101fe94cee1e8feee95f7e7173d96686d934c9006965fdbd7da4c7f122ef06765fc0a",
-                                                                                    "uid": "826a1c514038a0eae62035faf736bd19",
-                                                                                                "username": "taylorzane"
-                                                                                                        },
-                                                                                                                "service": {
-                                                                                                                            "hostname": "pearly.space",
-                                                                                                                                        "protocol": "https:"
-                                                                                                                                                },
-                                                                                                                                                        "type": "web_service_binding",
-                                                                                                                                                                "version": 1
-                                                                                                                                                                    },
-                                                                                                                                                                        "ctime": 1453420921,
-                                                                                                                                                                            "expire_in": 157680000,
-                                                                                                                                                                                "prev": "3f31b5b5e478e5f0010af626a25402ab2f36c5644550cbe0895c39e47f5e6c5b",
-                                                                                                                                                                                    "seqno": 14,
-                                                                                                                                                                                        "tag": "signature"
-                                                                                                                                                                                        }
+        "key": {
+            "eldest_kid": "0101fe94cee1e8feee95f7e7173d96686d934c9006965fdbd7da4c7f122ef06765fc0a",
+            "fingerprint": "c61ef594755242d6f3f9fd072047a21efa98f8fb",
+            "host": "keybase.io",
+            "key_id": "2047a21efa98f8fb",
+            "kid": "0101fe94cee1e8feee95f7e7173d96686d934c9006965fdbd7da4c7f122ef06765fc0a",
+            "uid": "826a1c514038a0eae62035faf736bd19",
+            "username": "taylorzane"
+        },
+        "service": {
+            "hostname": "pearly.space",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1453420921,
+    "expire_in": 157680000,
+    "prev": "3f31b5b5e478e5f0010af626a25402ab2f36c5644550cbe0895c39e47f5e6c5b",
+    "seqno": 14,
+    "tag": "signature"
+}
 
 which yields the signature:
 
