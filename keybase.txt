@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/taylorzane
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pearly.space
+  * I am taylorzane (https://keybase.io/taylorzane) on keybase.
+  * I have a public key with fingerprint C61E F594 7552 42D6 F3F9  FD07 2047 A21E FA98 F8FB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101fe94cee1e8feee95f7e7173d96686d934c9006965fdbd7da4c7f122ef06765fc0a",
+            "fingerprint": "c61ef594755242d6f3f9fd072047a21efa98f8fb",
+            "host": "keybase.io",
+            "key_id": "2047a21efa98f8fb",
+            "kid": "0101fe94cee1e8feee95f7e7173d96686d934c9006965fdbd7da4c7f122ef06765fc0a",
+            "uid": "826a1c514038a0eae62035faf736bd19",
+            "username": "taylorzane"
+        },
+        "service": {
+            "hostname": "pearly.space",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1453420921,
+    "expire_in": 157680000,
+    "prev": "3f31b5b5e478e5f0010af626a25402ab2f36c5644550cbe0895c39e47f5e6c5b",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSBVRFL32sLIiwYqSohrLMG5y5nHmcYsgqECSigwJEq9nZvaxqdud
+cWauerWgJxj1k73ErEwooVLsQVH4kRHd0iLoQWGPjyK0ogcFkSHVGbG/Pjs/h7PX
+2muvvTi3Jo4MZaTltS9tKrtdsCmtp6sxESo+VZGs5XTbTHKRWm4zDF0QM8Hzo5st
+k4twiEc8BU0yAHhQKQBomCqg8IpoarKsyqYmSoaGkKzJmJq6qZhEMhTKCwJQJCus
+aCDChTlqxcvBdVwr7jNZQ+aBYk1SMBYkwZSpSDVqIkVAkkIEhhFNpSrVWeNG2ws6
+mDmdeJBv2azGHtEhe//g/2ffiSE5VZAJb2BeQqJKEBCQBSRiSqgiyrrJawHRAzdO
+tgBj+yQZs90aEgduW5hj9UrLgCDaYJdhjgPEjSXzPYcwKMw5ru3bhh1jyEbfd7xI
+0OknnYBaBXp0WCSqW3GTJck6KsH1LDvORXjGNHwrUOUlLEoC0gQ+zEG1Y7kQtQIG
+VmQVsRPMgUomKVKR17GOQVJUwBSxuAiV2ZIClpBAdIGKsoFlScIYGTogVcOGqDE2
+xcCAIGcPKuJ2MJL5JOVM07PK48RPuGzpmzdKRoXSMkLpo0cEXyyUMS7z78drKBwb
+2jtn0f30vkMdU/Zn7TuY5/Q9WDBraUco+tV5VJazKvta1+lnRZmDhb3bX+1/PonP
+mXTrjNuempccv7sILl0+8XByXnXnkhnrjqbekauR5SOaP6Dr59uafnv0x+fub7v6
+G53EjeSBuxc3dD5+8j1bwBO81Z2ZWcfbQtcvrP00rWxMDKq2ZlYcs/qR+npuMnfc
+wdolJXX26sSbPQOpwp70+vldbx/vGnz55UrxzDv3WtaXqgXF8spDvflnpzeJh2eX
+1rQu+LhiYX02xBYXTG3Y3tKd8zqVqjvSsLN+1ftCMzfHPresl3T/zGstvbChL7e1
+yPjV1twjrmm+/WJu+8COaPjk08EVfwCvL0LM
+=X5jq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/taylorzane
+
+==================================================================
